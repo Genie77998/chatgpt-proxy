@@ -1,0 +1,11 @@
+{
+  "apiKey": "",
+  "model": "",
+  "axiosRequestConfig": {
+    "proxy": {
+      "host": "127.0.0.1",
+      "port": "7890",
+      "protocol": "http"
+    }
+  }
+}
